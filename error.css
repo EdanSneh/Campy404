@@ -1,0 +1,15 @@
+
+#imag{
+	text-align: center;
+}
+body {
+    background-color: rgb(48,47,47);
+}
+img {
+  height: 90%;
+  width: 90%;
+  min-height:300px;
+  min-width: 342px;
+  max-height:658px;
+  max-width:750px; 
+ 
